@@ -1,4 +1,4 @@
-package user_ms;
+package com.hoteladvisor.user;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
